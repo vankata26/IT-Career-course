@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Set_of_the_sums_of_the_last_K_numbers</RootNamespace>
+  </PropertyGroup>
+
+</Project>
